@@ -1,1 +1,4 @@
 # javaclassmembers
+
+Instructor: Scott Dossey
+
