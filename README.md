@@ -9,3 +9,4 @@ The instructor's name is Scott Dossey
 * D.E. Knuth
 * Test student 2
 * Peabody Sherman
+* Don Schwartz
