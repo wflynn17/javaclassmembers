@@ -1,4 +1,10 @@
-# javaclassmembers
+# Class Members
 
-Instructor: Scott Dossey
+## Instructor
+
+The instructor's name is Scott Dossey
+
+## Students
+
+* D.E. Knuth
 
