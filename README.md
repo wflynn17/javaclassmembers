@@ -8,4 +8,4 @@ The instructor's name is Scott Dossey
 
 * D.E. Knuth
 * Test student 2
-
+* Don Schwartz
