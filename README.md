@@ -9,4 +9,3 @@ The instructor's name is Scott Dossey
 * Test Student 1
 * Craig Zieg
 * Scott Dossey
-* Test
