@@ -6,6 +6,4 @@ The instructor's name is Scott Dossey
 
 ## Students
 
-* Test Student 1
-* Craig Zieg
-* Scott Dossey
+* Test student 1
