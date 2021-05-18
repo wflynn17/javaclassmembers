@@ -11,5 +11,5 @@ The instructor's name is Scott Dossey
 * Will Reichard-Flynn
 * Test student 1
 
-Ronnie Frias
+* Ronnie Frias
 \*Tommy Mendez
