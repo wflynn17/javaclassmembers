@@ -9,7 +9,7 @@ The instructor's name is Scott Dossey
 - Test student 1
 
 * Will Reichard-Flynn
-* Test student 1
+* Khai Parker 
 
 Ronnie Frias
 \*Tommy Mendez
